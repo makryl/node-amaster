@@ -1,0 +1,13 @@
+{
+  "name": "amaster",
+  "version": "0.0.1",
+  "description": "Just a (cluster) master process for Node.js.",
+  "license": "MIT",
+  "author": {
+    "name": "Maksim Krylosov",
+    "email": "aequiternus@gmail.com"
+  },
+  "dependencies": {
+    "daemon": "*"
+  }
+}
